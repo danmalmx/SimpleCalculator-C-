@@ -1,5 +1,5 @@
 ﻿# SimpleCalculator (C#)
  
- #### A console, basic operations calculator written in C#.
+ #### Basic operations calculator written in C# (console app)
  
  #### Created by: Daniel Malmgren de Oiveira
