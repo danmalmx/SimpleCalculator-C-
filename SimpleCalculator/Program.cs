@@ -19,7 +19,7 @@ namespace SimpleCalculator
                 double firstNumber = inputConverter.ConvertInputToNumeric(Console.ReadLine());
                 Console.Write("Enter another number: ");
                 double secondNumber = inputConverter.ConvertInputToNumeric(Console.ReadLine());
-                Console.Write("Enter an operation(+, -, * or /): ");
+                Console.Write("Enter an operation(add or +, substract or , multiply or *, or divide or /): ");
                 string operation = Console.ReadLine();
 
                 double result = calculatorEngine.Calculate(operation, firstNumber, secondNumber);
