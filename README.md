@@ -4,6 +4,6 @@
 
  #### Screenshot
  
- <img src="../img/Calculator.PNG>
+ <img src="../img/Calculator.PNG">
  
  #### Created by: Daniel Malmgren de Oiveira
